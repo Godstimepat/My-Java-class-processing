@@ -1,2 +1,3 @@
 # My-Java-class-processing
-this repro contain my activities for my java class. Assignments and practice codes
+this repo contain my activities for my java class with [MrTobi](https://github.com/Edamijueda). Assignments and practice codes
+{
